@@ -11,7 +11,7 @@ These data are based on SemEval2016 Shared Task 6 "Stance Detection on Tweets", 
 In this following, we describe the data used in the [ssr-paper](https://aclanthology.org/2022.coling-1.596/). The structure of the constructed `SemEval2016_SSR.json` looks like this:
 ```json
 {
-    "all_instances":{} 
+    "all_instances":[] 
     
     "data_split_by_target": {
             "Hillary Clinton": {
